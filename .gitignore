@@ -132,3 +132,5 @@ examples/.last_checked
 examples/fastai
 docs_src/fastai
 
+# ignore big data in data_CPU folder
+data_CPU/
